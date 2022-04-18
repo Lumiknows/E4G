@@ -1,0 +1,14 @@
+{
+  "name": "E4G Esports",
+  "version": "1.0.0",
+  "description": "Discord Bot for Evolve E-sports",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ykydro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
